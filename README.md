@@ -1,4 +1,3 @@
-# image-captioning-speech-synthesis
 # Automated Image Captioning with Speech Synthesis 
 
 This project combines the power of deep learning and speech synthesis to create an assistive tool that can **generate image captions** and **speak them aloud**. It’s designed especially for improving accessibility for visually impaired users by enabling machines to describe images in natural language and convert that description to audio in real time.
